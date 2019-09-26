@@ -1,0 +1,13 @@
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\bin\Debug\E03.exe.config
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\bin\Debug\E03.exe
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\bin\Debug\E03.pdb
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.Form1.resources
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.Form2.resources
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.Form3.resources
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.Form4.resources
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.exe
+D:\CNTT\LapTrinhGiaoDien\Week3\E03\E03\obj\Debug\E03.pdb
