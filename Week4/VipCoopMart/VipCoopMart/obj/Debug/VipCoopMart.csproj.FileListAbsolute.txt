@@ -1,0 +1,10 @@
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\bin\Debug\VipCoopMart.exe.config
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\bin\Debug\VipCoopMart.exe
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\bin\Debug\VipCoopMart.pdb
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\obj\Debug\VipCoopMart.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\obj\Debug\VipCoopMart.Form1.resources
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\obj\Debug\VipCoopMart.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\obj\Debug\VipCoopMart.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\obj\Debug\VipCoopMart.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\obj\Debug\VipCoopMart.exe
+D:\CNTT\LapTrinhGiaoDien\Week4\VipCoopMart\VipCoopMart\obj\Debug\VipCoopMart.pdb
