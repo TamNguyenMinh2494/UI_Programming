@@ -1,0 +1,15 @@
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\bin\Debug\DemoPicView.exe.config
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\bin\Debug\DemoPicView.exe
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\bin\Debug\DemoPicView.pdb
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\obj\Debug\DemoPicView.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\obj\Debug\DemoPicView.Form1.resources
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\obj\Debug\DemoPicView.Form2.resources
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\obj\Debug\DemoPicView.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\obj\Debug\DemoPicView.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\obj\Debug\DemoPicView.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\obj\Debug\DemoPicView.exe
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\obj\Debug\DemoPicView.pdb
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\bin\Debug\Notepad.exe
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\bin\Debug\Notepad.pdb
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\bin\Debug\Notepad.exe.config
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\DemoPicView\obj\Debug\DemoPicView.csproj.CopyComplete

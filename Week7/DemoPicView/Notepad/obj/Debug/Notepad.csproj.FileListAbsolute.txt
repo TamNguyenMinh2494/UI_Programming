@@ -1,0 +1,10 @@
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\bin\Debug\Notepad.exe.config
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\bin\Debug\Notepad.exe
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\bin\Debug\Notepad.pdb
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\obj\Debug\Notepad.exe
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\obj\Debug\Notepad.pdb
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\obj\Debug\Notepad.csprojAssemblyReference.cache
+D:\CNTT\LapTrinhGiaoDien\Week7\DemoPicView\Notepad\obj\Debug\Notepad.NotepadForm.resources
